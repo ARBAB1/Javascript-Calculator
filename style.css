@@ -1,0 +1,34 @@
+h1{
+    text-align: center;
+}
+.main{
+    margin: 0px auto 0px auto;
+    border: 2px solid black;
+    width: 400px;
+    height:  300px;
+    margin-top: 20px;
+
+}
+.input{
+    width: 395px;
+    background-color: darkgrey;
+    color: #fff;
+    height: 40px;
+    font-size: large;
+}
+.clearBtn{
+    width: 400px;
+    height: 40px;
+    margin-top: 10px;
+}
+.btn{
+    height: 40px;
+    width: 97px;
+    margin-top: 10px;
+}
+.lastBtn{
+    height: 40px;
+    margin-top: 10px;
+
+    width: 130.5px;
+}
